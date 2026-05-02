@@ -40,12 +40,12 @@ Logging: Python logging module
 <br>
 
 ## 🎯 Skills Demonstrate
-✅ Web scraping (BeautifulSoup/Selenium)
-✅ API integration (REST/JSON)
-✅ Task scheduling (APScheduler)
-✅ Data processing (Pandas)
-✅ Logging + error handling
-✅ Modular Python architecture
+✅ Web scraping (BeautifulSoup/Selenium) <br>
+✅ API integration (REST/JSON) <br>
+✅ Task scheduling (APScheduler) <br>
+✅ Data processing (Pandas) <br>
+✅ Logging + error handling <br>
+✅ Modular Python architecture <br>
 
 <br>
 
